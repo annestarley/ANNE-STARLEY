@@ -35,7 +35,7 @@ anne.starley@aggiemail.usu.edu
  * Physically assembled and tested the new PEA apparatus. Effectively measured spatial distribution of di-electric charge with improved signal processing and higher spatial resolution.
  
 
-**Receptionist/Assistant, Starley Family Dental** Ogden, UT
+**Receptionist/Assistant, Starley Family Dental** Ogden, UT  
 *May 2008-December 2014*  
 
 * Greeted patients and organized files, sterilized instruments, aided dentist and hygienists, accepted payments and decided on payment plans.  
