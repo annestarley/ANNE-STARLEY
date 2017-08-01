@@ -14,8 +14,15 @@ anne.starley@aggiemail.usu.edu
 * Inducted into National Physics Honor Society (Sigma Pi Sigma)
 * Graduated with a Research Scholar Designation  
 
-###WORK EXPERIENCE  
-**Risk Investigator, Amazon** Seattle, WA  
+###WORK EXPERIENCE 
+**Fraud Analyst, Momentum Ventures** Bellevue, WA
+*March 2017-Present
+
+* Investigate possibly fraudulent purchases by mastering and using internal tools, interacting with banking agents, and reaching out to customers in high risk situations. Obtain evidence, present findings in written word, and make a decision as to the validity of a purchase.
+* Review statistical data to better understand what constitutes a high risk situation. Incorporate new findings and techniques into analytical routine to further protect the company from financial scams.
+* Assist in creating a basic outline in the decision-making process for incoming employees
+
+**Risk Investigator - Contract, Amazon** Seattle, WA  
 *October 2016-January 2017*  
 
 * Learned and assisted the Fulfillment Centers in the handling process and supported my team in providing an excellent seller/customer experience  
@@ -54,3 +61,4 @@ anne.starley@aggiemail.usu.edu
 * Proficient in Microsoft Software: Word, Excel, Access, Power Point, Outlook
 * Skilled in Mathcad, MatLab, Maple, PuTTY, Igor, and Solid Works
 * Experienced in public speaking, presenting, and teaching.
+* Intro level experience with HTML, CSS, and Javascript.
