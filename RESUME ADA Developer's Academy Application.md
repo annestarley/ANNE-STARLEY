@@ -1,12 +1,12 @@
 # ANNE-STARLEY-Resume
 ![Anne](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1yAAAAJDM0ZDBkMDgxLWI5NGQtNDY3Yy1iZGIyLWViYjQ3NTc0NGZmNQ.jpg)
-#Anne Starley
+# Anne Starley
 Tel: (801)389-3224   
 anne.starley@aggiemail.usu.edu  
 [LinkedIn Profile](www.linkedin.com/in/anne-starley-844066122 "Visit Anne Starley's LinkedIn Profile")
 
 ----------------------------------------------------------
-###EDUCATION  
+### EDUCATION  
 **BS Applied Physics: Medical Emphasis, minor in Chemistry** Utah State University, Logan, UT   
 *December 2015*  
 
@@ -14,7 +14,7 @@ anne.starley@aggiemail.usu.edu
 * Inducted into National Physics Honor Society (Sigma Pi Sigma)
 * Graduated with a Research Scholar Designation  
 
-###WORK EXPERIENCE 
+### WORK EXPERIENCE 
 **Fraud Analyst, Momentum Ventures** Bellevue, WA
 *March 2017-Present
 
@@ -49,7 +49,7 @@ anne.starley@aggiemail.usu.edu
 * Provided a positive, energized, and excellent environment for patients, assistants, and dentists. 
 * Greatly enjoyed interacting with people and operating in a busy environment that required time management and multi-tasking skills.  
 
-###VOLUNTEER EXPERIENCE  
+### VOLUNTEER EXPERIENCE  
 **Fundraising Planning Coordinator, Haiti Health Initiative** Orem, UT  
 *April 2016-Present*  
 
@@ -57,7 +57,7 @@ anne.starley@aggiemail.usu.edu
 * Trained designated health workers in Timo, Haiti in prevention and treatment of diseases. Collaborated in the creation and distributions of health curriculums for health workers and primary schools.  
 * Taught English to children and adults in Timo, Haiti. 
  
-###TECHNICAL AND LANGUAGE SKILLS
+### TECHNICAL AND LANGUAGE SKILLS
 * Proficient in Microsoft Software: Word, Excel, Access, Power Point, Outlook
 * Skilled in Mathcad, MatLab, Maple, PuTTY, Igor, and Solid Works
 * Experienced in public speaking, presenting, and teaching.
