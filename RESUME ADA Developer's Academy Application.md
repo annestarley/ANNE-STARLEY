@@ -16,7 +16,7 @@ anne.starley@aggiemail.usu.edu
 
 ### WORK EXPERIENCE 
 **Fraud Analyst, Momentum Ventures** Bellevue, WA
-*March 2017-Present
+*March 2017-Present*
 
 * Investigate possibly fraudulent purchases by mastering and using internal tools, interacting with banking agents, and reaching out to customers in high risk situations. Obtain evidence, present findings in written word, and make a decision as to the validity of a purchase.
 * Review statistical data to better understand what constitutes a high risk situation. Incorporate new findings and techniques into analytical routine to further protect the company from financial scams.
