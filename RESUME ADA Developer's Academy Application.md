@@ -1,5 +1,5 @@
 # ANNE-STARLEY-Resume
-![Anne](https://scontent-sjc2-1.cdninstagram.com/t51.2885-19/s150x150/16908886_1254607001321584_5863452836687249408_a.jpg)
+![Anne](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1yAAAAJDM0ZDBkMDgxLWI5NGQtNDY3Yy1iZGIyLWViYjQ3NTc0NGZmNQ.jpg)
 #Anne Starley
 Tel: (801)389-3224   
 anne.starley@aggiemail.usu.edu  
