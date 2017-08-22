@@ -2,7 +2,7 @@
 ![Anne](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1yAAAAJDM0ZDBkMDgxLWI5NGQtNDY3Yy1iZGIyLWViYjQ3NTc0NGZmNQ.jpg)
 # Anne Starley
 Tel: (801)389-3224   
-anne.starley@aggiemail.usu.edu  
+annestarley@gmail.com  
 [LinkedIn Profile](www.linkedin.com/in/anne-starley-844066122 "Visit Anne Starley's LinkedIn Profile")
 
 ----------------------------------------------------------
