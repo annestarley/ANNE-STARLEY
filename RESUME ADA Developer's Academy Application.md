@@ -10,7 +10,6 @@ annestarley@gmail.com
 **BS Applied Physics: Medical Emphasis, minor in Chemistry** Utah State University, Logan, UT   
 *December 2015*  
 
-* Graduated Cum Laude
 * Inducted into National Physics Honor Society (Sigma Pi Sigma)
 * Graduated with a Research Scholar Designation  
 
