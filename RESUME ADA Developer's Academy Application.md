@@ -3,7 +3,7 @@
 # Anne Starley
 Tel: (801)389-3224   
 annestarley@gmail.com  
-[LinkedIn Profile](www.linkedin.com/in/anne-starley-844066122 "Visit Anne Starley's LinkedIn Profile")
+[LinkedIn Profile](https://www.linkedin.com/in/anne-starley-844066122/ "Visit Anne Starley's LinkedIn Profile")
 
 ----------------------------------------------------------
 ### EDUCATION  
